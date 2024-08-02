@@ -9,6 +9,9 @@ import { BannerComponent } from './components/banner/banner.component';
 import { HomeComponent } from './components/home/home.component';
 import { CardsComponent } from './components/cards/cards.component';
 import { FooterComponent } from './components/footer/footer.component';
+import { PrepageComponent } from './components/prepage/prepage.component';
+import { MenuComponent } from './components/menu/menu.component';
+import { CardtitleComponent } from './components/cardtitle/cardtitle.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +21,10 @@ import { FooterComponent } from './components/footer/footer.component';
     BannerComponent,
     HomeComponent,
     CardsComponent,
-    FooterComponent
+    FooterComponent,
+    PrepageComponent,
+    MenuComponent,
+    CardtitleComponent
   ],
   imports: [
     BrowserModule,

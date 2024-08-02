@@ -1,0 +1,63 @@
+#main {
+    display: grid;
+}
+
+.navbar {
+    height: 50px;
+    background-color: #fff;
+    align-items: center;
+    padding: 1vw 3vw;
+}
+
+.navfull {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar h2 {
+    text-transform: uppercase;
+    font-size: 1.3vw;
+    font-family: 'Source Code Pro';
+    font-weight: 700;
+}
+
+.nav-attributes {
+    display: flex;
+    gap: 3vw;
+}
+
+.attributes a {
+    font-size: 1.3vw;
+    text-decoration: none;
+    color: #563E26;
+    font-weight: 600;
+    font-family: 'Source Code Pro';
+}
+
+.attributes {
+    display: flex;
+    align-items: center;
+    gap: .3vw;
+}
+
+.input-group button {
+    font-family: 'Source Code Pro';
+    border: 1px solid #563E26;
+}
+
+.input-group .btn:hover {
+    font-family: 'Source Code Pro';
+    border: 1px solid #563E26;
+    background-color: #563E26;
+    color: #fff;
+}
+
+.input-group input {
+    border: 1px solid #563E26;
+    border-top-left-radius: .4vw;
+    border-bottom-left-radius: .4vw;
+    padding: 0vw 1vw;
+    width: 40vw;
+}

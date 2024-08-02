@@ -1,0 +1,84 @@
+.crd {
+    width: 23vw;
+    height: 25vw;
+    background-color: #111;
+}
+
+.crd img {
+    width: inherit;
+    height: inherit;
+}
+
+.cards {
+    height: 35vw;
+    padding: 1vw 2vw;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    gap: 7vw;
+    overflow-x: scroll;
+
+}
+
+.cards::-webkit-scrollbar {
+    display: none;
+}
+
+.product-details {
+    width: 25vw;
+    padding: 1vw 0vw;
+}
+
+.product-details p {
+    color: rgb(112, 1, 1);
+
+}
+
+.product-details h5 {
+    font-size: 1.2vw;
+}
+
+.product-details h6 {
+    font-size: 1vw;
+    color: #666;
+}
+
+.header {
+    font-family: "Source Code Pro";
+    padding: 1vw 2vw;
+    text-align: center;
+}
+
+.header h3 {
+    font-size: 1.5vw;
+    font-weight: 800;
+}
+
+.line {
+    width: 100%;
+    border-bottom: 1px solid #c9c8c8;
+}
+
+.price {
+    display: flex;
+    font-size: 1.2vw;
+    align-items: center;
+    gap: 13.4vw;
+
+}
+
+.head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.head button {
+    background-color: #fff;
+    color: maroon;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid maroon;
+    padding: 0vw 1.2vw;
+    font-size: 1vw;
+    border-radius: 20px;
+}

@@ -1,0 +1,59 @@
+.categories {
+    display: flex;
+    gap: 3vw;
+    align-items: center;
+    justify-content: center;
+    padding: 2vw 2vw;
+
+}
+
+.categories a {
+    text-decoration: none;
+    color: black;
+    font-size: 1.1vw;
+}
+
+.menu {
+    margin-top: 3vw;
+    border-top: 1px solid rgb(196, 196, 196);
+    padding: 2vw 2vw;
+    text-align: center;
+}
+
+.menu .menubar {
+    width: 6vw;
+    height: 6vw;
+    background-color: transparent;
+    border: 2px solid black;
+    border-radius: 50%;
+}
+
+.menu h3 {
+    font-family: "Source Code Pro";
+    font-size: 1.5vw;
+    font-weight: 700;
+    color: #563E26;
+}
+
+
+.menubar {
+    background-image: url(https://firebasestorage.googleapis.com/v0/b/naniportfolio-cadd2.appspot.com/o/Ecommerce%2Fmenubar%2Fmenu%20bar%201.jpg?alt=media&token=08e455c2-bb96-401a-b468-a7737a1882b8);
+    background-size: cover;
+}
+
+.menu2 {
+    background-image: url(https://firebasestorage.googleapis.com/v0/b/naniportfolio-cadd2.appspot.com/o/Ecommerce%2Fmenubar%2Fmenu-bar-2.jpg?alt=media&token=4e25c441-14d4-45fa-b834-6c721552c79a);
+    background-size: cover;
+    background-position: center;
+}
+
+.menu3 {
+    background-image: url(https://firebasestorage.googleapis.com/v0/b/naniportfolio-cadd2.appspot.com/o/Ecommerce%2Fmenubar%2Fmenu%20bar%203.jpg?alt=media&token=2a68bf43-ba88-46d9-9673-3c3893255d49);
+    background-size: cover;
+    background-position: center;
+}
+
+.menu4 {
+    background-image: url(https://firebasestorage.googleapis.com/v0/b/naniportfolio-cadd2.appspot.com/o/Ecommerce%2Fmenubar%2Fmenu%20bar%204.jpg?alt=media&token=e8519bc9-1ed8-4242-91fe-57ce188234e9);
+    background-size: cover;
+}

@@ -1,0 +1,162 @@
+#main .prepage {
+    width: 100%;
+    height: 100vh;
+    background-color: #e9e3e3;
+
+}
+
+.bg {
+    width: 40%;
+    height: 100vh;
+    background-color: #536F16;
+    margin-left: 8vw;
+    position: fixed;
+    z-index: 1;
+    border-top-left-radius: 3%;
+    border-top-right-radius: 15%;
+
+}
+
+.bg svg {
+    position: fixed;
+}
+
+.context {
+    z-index: 2;
+    position: fixed;
+    width: 100%;
+    display: flex;
+    margin: 8vw 15vw;
+
+}
+
+.context h2 {
+    color: #000;
+    text-transform: uppercase;
+    font-family: 'Bona Nova Bold';
+    letter-spacing: 4px;
+    font-weight: 800;
+}
+
+.left {
+    width: 40%;
+    height: 60vh;
+    padding: 4vw 5vw;
+
+
+}
+
+
+
+.content-left {
+    color: #000;
+    margin-top: 3vw;
+
+}
+
+.head h5 {
+    margin-top: -.6vw;
+}
+
+.content-left span {
+    font-size: 1.8vw;
+    font-weight: 800;
+    color: antiquewhite;
+}
+
+.content-left h3 {
+    font-weight: 800;
+}
+
+.between {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.between button {
+    height: 3vw;
+    width: 3vw;
+    background-color: #496212;
+    color: #fff;
+    border-radius: 50%;
+}
+
+
+.content-left .inputs {
+    display: grid;
+    width: 40%;
+    gap: 1vw;
+
+}
+
+.inputs input {
+    color: #496212;
+    border-radius: 1vw;
+    border: 1px solid #fff;
+    font-size: 1.2vw;
+    font-family: 'Bona Nova';
+    padding: 0vw .5vw;
+}
+
+.inputs button {
+    color: #fff;
+    background-color: transparent;
+    border: 2px solid #fff;
+    border-radius: 2vw;
+    transition: transform 400ms;
+}
+
+.inputs button:hover {
+    color: #496212;
+    background-color: #fff;
+    border: 2px solid #496212;
+    border-radius: 2vw;
+    transform: scale(1.1);
+}
+
+.right {
+    height: 60vh;
+    width: 40%;
+    padding: 9vw;
+
+}
+
+.rhead h3 {
+    font-weight: 800;
+}
+
+.rhead span {
+    color: #536F16;
+}
+
+.right .r-inputs {
+    display: grid;
+    margin-top: 1vw;
+    width: 30%;
+    font-size: 1.2vw;
+    gap: 1.3vw
+}
+
+.r-inputs input {
+    border: 2px solid #536F16;
+    border-radius: 2vw;
+    padding: 0vw .5vw;
+    background-color: transparent;
+}
+
+
+.r-inputs button {
+    color: #496212;
+    background-color: transparent;
+    border: 2px solid #536F16;
+    border-radius: 2vw;
+    transition: transform 400ms;
+}
+
+.r-inputs button:hover {
+    background-color: #496212;
+    color: #fff;
+    border: 2px solid #fff;
+    transform: scale(1.1);
+}
