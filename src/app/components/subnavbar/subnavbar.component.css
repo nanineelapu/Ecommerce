@@ -2,10 +2,10 @@
     background-color: #563E26;
     margin-top: 1vw;
     align-items: center;
-    width: 100%;
+    width: 94%;
+    margin-left: 3vw;
     display: flex;
     height: 40px;
-    border-radius: 4px;
 }
 
 /* 
