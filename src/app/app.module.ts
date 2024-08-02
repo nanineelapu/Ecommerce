@@ -12,6 +12,13 @@ import { FooterComponent } from './components/footer/footer.component';
 import { PrepageComponent } from './components/prepage/prepage.component';
 import { MenuComponent } from './components/menu/menu.component';
 import { CardtitleComponent } from './components/cardtitle/cardtitle.component';
+import { WomencardsComponent } from './components/womencards/womencards.component';
+import { SidebarComponent } from './components/sidebar/sidebar.component';
+import { SidebannerComponent } from './components/sidebanner/sidebanner.component';
+import { SponsersComponent } from './components/sponsers/sponsers.component';
+import { SponsorsComponent } from './components/sponsors/sponsors.component';
+import { Sponsord2Component } from './components/sponsord2/sponsord2.component';
+import { Sponsord1Component } from './components/sponsord1/sponsord1.component';
 
 @NgModule({
   declarations: [
@@ -24,7 +31,14 @@ import { CardtitleComponent } from './components/cardtitle/cardtitle.component';
     FooterComponent,
     PrepageComponent,
     MenuComponent,
-    CardtitleComponent
+    CardtitleComponent,
+    WomencardsComponent,
+    SidebarComponent,
+    SidebannerComponent,
+    SponsersComponent,
+    SponsorsComponent,
+    Sponsord2Component,
+    Sponsord1Component
   ],
   imports: [
     BrowserModule,

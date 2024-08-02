@@ -1,6 +1,10 @@
+#allcards {
+    margin: 3vw 0vw;
+}
+
 .crd {
     width: 23vw;
-    height: 25vw;
+    height: 28vw;
     background-color: #111;
 }
 
@@ -10,7 +14,7 @@
 }
 
 .cards {
-    height: 35vw;
+    height: 38vw;
     padding: 1vw 2vw;
     font-family: Arial, Helvetica, sans-serif;
     display: flex;
@@ -36,7 +40,6 @@
 .product-details h5 {
     font-size: 1.2vw;
     font-weight: 600;
-
 }
 
 .product-details h6 {

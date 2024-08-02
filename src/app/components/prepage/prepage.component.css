@@ -8,7 +8,7 @@
 .bg {
     width: 40%;
     height: 100vh;
-    background-color: #536F16;
+    background-color: #563E26;
     margin-left: 8vw;
     position: fixed;
     z-index: 1;
@@ -26,12 +26,12 @@
     position: fixed;
     width: 100%;
     display: flex;
-    margin: 8vw 15vw;
+    margin: 8vw 12vw;
 
 }
 
 .context h2 {
-    color: #000;
+    color: #fff;
     text-transform: uppercase;
     font-family: 'Bona Nova Bold';
     letter-spacing: 4px;
@@ -50,7 +50,7 @@
 
 .content-left {
     color: #000;
-    margin-top: 3vw;
+    margin-top: 1vw;
 
 }
 
@@ -61,7 +61,7 @@
 .content-left span {
     font-size: 1.8vw;
     font-weight: 800;
-    color: antiquewhite;
+    color: #000;
 }
 
 .content-left h3 {
@@ -77,7 +77,7 @@
 .between button {
     height: 3vw;
     width: 3vw;
-    background-color: #496212;
+    background-color: #563E26;
     color: #fff;
     border-radius: 50%;
 }
@@ -91,7 +91,7 @@
 }
 
 .inputs input {
-    color: #496212;
+    color: #563E26;
     border-radius: 1vw;
     border: 1px solid #fff;
     font-size: 1.2vw;
@@ -108,9 +108,9 @@
 }
 
 .inputs button:hover {
-    color: #496212;
+    color: #563E26;
     background-color: #fff;
-    border: 2px solid #496212;
+    border: 2px solid #563E26;
     border-radius: 2vw;
     transform: scale(1.1);
 }
@@ -127,7 +127,7 @@
 }
 
 .rhead span {
-    color: #536F16;
+    color: #563E26;
 }
 
 .right .r-inputs {
@@ -139,7 +139,7 @@
 }
 
 .r-inputs input {
-    border: 2px solid #536F16;
+    border: 2px solid #563E26;
     border-radius: 2vw;
     padding: 0vw .5vw;
     background-color: transparent;
@@ -147,15 +147,15 @@
 
 
 .r-inputs button {
-    color: #496212;
+    color: #563E26;
     background-color: transparent;
-    border: 2px solid #536F16;
+    border: 2px solid #563E26;
     border-radius: 2vw;
     transition: transform 400ms;
 }
 
 .r-inputs button:hover {
-    background-color: #496212;
+    background-color: #563E26;
     color: #fff;
     border: 2px solid #fff;
     transform: scale(1.1);

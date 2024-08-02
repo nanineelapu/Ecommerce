@@ -1,0 +1,69 @@
+#sidebanner {
+    margin: 5vw 0vw;
+}
+
+.slides {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0vw 0vw;
+    gap: 4vw;
+}
+
+.left img {
+    width: 100%;
+    height: inherit;
+}
+
+.left {
+    width: 45%;
+    height: 20vw;
+}
+
+.right {
+    width: 45%;
+    height: 20vw;
+}
+
+.right img {
+    width: 100%;
+    height: inherit;
+}
+
+.title {
+    padding: 1.5vw 0vw;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.title h5 {
+    font-size: 1.3vw;
+    font-weight: 600;
+}
+
+
+
+h3 {
+    font-family: "Source Code Pro";
+    font-weight: 800;
+    font-size: 1.6vw;
+    padding: 1vw 3vw;
+}
+
+.subtitle {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+button {
+    background-color: #563E26;
+    font-size: 1vw;
+    padding: .3vw .5vw;
+    box-shadow: 0px 2px 6px 0px black;
+    color: #fff;
+    font-weight: 600;
+    font-family: Arial;
+    border-radius: 20px;
+    border-color: #fff;
+}
