@@ -1,6 +1,6 @@
 # Ecommerce Website created by Git - @nanineelapu
 
-Website designed for to get detail understanding and approch , and then how the Ecommerce website interface works.
+Website designed for to get detail understanding and approch ,how the Ecommerce website interface works.
 
 **Note: The sources and assets are used in the web design are from adobe-firefly anf @unsplah.com**
 
