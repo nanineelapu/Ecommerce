@@ -10,6 +10,9 @@ Used Angular JS Framework to get effective website layers like Home page, login 
 
 ![image](https://github.com/user-attachments/assets/8b1037da-69c0-45d9-9d36-c76b56afd913)
 
+![image](https://github.com/user-attachments/assets/811e0cea-2339-461e-a2e7-648b243b5f77)
+
+
 ![image](https://github.com/user-attachments/assets/585a5462-69f2-4677-aaac-44f356c94d26)
 
 ![image](https://github.com/user-attachments/assets/3052363b-9b10-464b-aeb2-562134a8c6da)
