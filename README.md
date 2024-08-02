@@ -2,7 +2,7 @@
 
 Website designed for to get detail understanding and approch ,how the Ecommerce website interface works.
 
-Used Angular JS Framework to get effective website layers.
+Used Angular JS Framework to get effective website layers like Home page, login page ,cart, Payment page Et cetera 
 
 **Note: The sources and assets are used in the web design are from adobe-firefly and @unsplah.com**
 
