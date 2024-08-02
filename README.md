@@ -2,7 +2,11 @@
 
 Website designed for to get detail understanding and approch ,how the Ecommerce website interface works.
 
-**Note: The sources and assets are used in the web design are from adobe-firefly anf @unsplah.com**
+Used Angular JS Framework to get effective website layers.
+
+**Note: The sources and assets are used in the web design are from adobe-firefly and @unsplah.com**
+
+//At Present responsive not added
 
 ![image](https://github.com/user-attachments/assets/8b1037da-69c0-45d9-9d36-c76b56afd913)
 
