@@ -3,7 +3,7 @@
 }
 
 .navbar {
-    height: 50px;
+    height: 60px;
     background-color: #fff;
     align-items: center;
     padding: 1vw 3vw;
@@ -41,6 +41,15 @@
     align-items: center;
     gap: .3vw;
 }
+
+.input-group {
+    font-size: 1.2vw;
+}
+
+.input-group i {
+    font-size: 1.3vw;
+}
+
 
 .input-group button {
     font-family: 'Source Code Pro';

@@ -1,0 +1,37 @@
+#footer {
+    width: 100%;
+    margin-top: 7vw;
+    background-color: #462605;
+    color: #fff;
+    border-radius: 5px;
+}
+
+.content {
+    padding: 2vw 3vw;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.left {
+    font-size: 1.2vw;
+    line-height: 0;
+    display: flex;
+    gap: 4vw;
+
+
+}
+
+.row h5 {
+    font-size: 1.3vw;
+    text-transform: capitalize;
+}
+
+.links {
+    display: grid;
+    font-size: 1.2vw;
+    line-height: 3;
+}
+
+.links a {
+    text-decoration: none;
+    color: #fff;
+}

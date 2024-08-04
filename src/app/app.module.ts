@@ -19,6 +19,10 @@ import { SponsersComponent } from './components/sponsers/sponsers.component';
 import { SponsorsComponent } from './components/sponsors/sponsors.component';
 import { Sponsord2Component } from './components/sponsord2/sponsord2.component';
 import { Sponsord1Component } from './components/sponsord1/sponsord1.component';
+import { WatchescardComponent } from './components/watchescard/watchescard.component';
+import { SponsorproductsComponent } from './components/sponsorproducts/sponsorproducts.component';
+import { PrefooterComponent } from './components/prefooter/prefooter.component';
+import { Sidebanner2Component } from './components/sidebanner2/sidebanner2.component';
 
 @NgModule({
   declarations: [
@@ -38,7 +42,11 @@ import { Sponsord1Component } from './components/sponsord1/sponsord1.component';
     SponsersComponent,
     SponsorsComponent,
     Sponsord2Component,
-    Sponsord1Component
+    Sponsord1Component,
+    WatchescardComponent,
+    SponsorproductsComponent,
+    PrefooterComponent,
+    Sidebanner2Component
   ],
   imports: [
     BrowserModule,
